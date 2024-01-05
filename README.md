@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## App Preview
+
+### Splash Screen
+
+![2024-01-05 (4)](https://github.com/Manohar-Reddy-B/Flutter-Contacts-App/assets/65357964/5e356502-f434-4d79-a823-078e86db7258)
